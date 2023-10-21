@@ -23,6 +23,19 @@
   
   
   <entry>
+    <title>114514</title>
+    <link href="/2023/10/20/114514/"/>
+    <url>/2023/10/20/114514/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一篇不臭的blog"><a href="#一篇不臭的blog" class="headerlink" title="一篇不臭的blog"></a>一篇不臭的blog</h1><h2 id="关于为什么马老师总是喜欢1145114这档事"><a href="#关于为什么马老师总是喜欢1145114这档事" class="headerlink" title="关于为什么马老师总是喜欢1145114这档事"></a>关于为什么马老师总是喜欢1145114这档事</h2><hr><blockquote><p>直接得出结论，马老师是homo</p></blockquote><p><img src="https://s2.loli.net/2023/10/21/9EgOL1QY6k8IZNP.jpg" alt="20-210Q5233Q7"></p><p>然后换个段落</p><p>竟然还有两空格换行<br>那么如果我一行打很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多的字，他的换行会是怎么样的呢？<br>不过VS Code里没有显示空格的数量，所以更安全的情况恐怕还是使用<code>&lt;br&gt;</code>来换行吧<br><br>然后接下来是代码的部分，那么就随便打一点代码吧。</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs C"><span class="hljs-meta">#<span class="hljs-keyword">include</span><span class="hljs-string">&lt;bits/stdc++.h&gt;</span></span><br>using namespace <span class="hljs-built_in">std</span>;<br><span class="hljs-type">int</span> <span class="hljs-title function_">main</span><span class="hljs-params">()</span><br>&#123;<br>    <span class="hljs-type">int</span> a,b;<br>    <span class="hljs-built_in">scanf</span>(<span class="hljs-string">&quot;&amp;d &amp;d&quot;</span>,&amp;a,&amp;b);<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;%d&quot;</span>,a+b);<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure><p>然后是<em>斜体</em>和<strong>加粗</strong>，都可以试一试。</p><p><em>鲁迅先生曾经说过：</em></p><blockquote><p>每每到了需要打字的时候，才会觉得同时要打中文和英文会这么麻烦</p></blockquote><ol><li><p>然后这个是</p></li><li><p>列表</p></li><li><p>他甚至</p><ol><li>还能</li><li>分层次</li></ol></li><li><p>挺好的</p></li><li><p>Open the file.</p></li><li><p>Find the following code block on line 21:</p><pre><code class="hljs">&lt;html&gt;  &lt;head&gt;    &lt;title&gt;Test&lt;/title&gt;  &lt;/head&gt;</code></pre></li><li><p>Update the title to match the name of your website.</p></li></ol><p>从上述例子上来看，似乎直接使用制表符可以构成代码的效果？但是没有办法实现语言选择操作。</p><ul><li>再试一试</li><li>如果直接在<code>-</code>后面打字就是这个样子。</li><li><pre><code class="hljs">如果加入四个空格，就会长成这个样子</code></pre></li><li>还行</li></ul><p>好了好了这个文档写到这里差不多了。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/10/20/hello-world/"/>
     <url>/2023/10/20/hello-world/</url>
